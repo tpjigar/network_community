@@ -1,3 +1,6 @@
+/.idea
+/.vscode
+
 /vendor/
 node_modules/
 npm-debug.log
@@ -17,7 +20,10 @@ public_html/hot
 
 storage/*.key
 .env
+.env.backup
+
 Homestead.yaml
 Homestead.json
+docker-compose.override.yml
 /.vagrant
 .phpunit.result.cache
